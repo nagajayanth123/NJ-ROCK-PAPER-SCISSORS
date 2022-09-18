@@ -1,0 +1,22 @@
+body{
+    font-family: monospace;
+    font-size: 30px;
+    text-align: center;
+    background: black;
+    color: green;
+}
+
+button{
+    background: green;
+    color: black;
+    border: none;
+    padding: 10px 15px;
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.score-area {
+    border: 1px solid green;
+    margin: 30px;
+}
